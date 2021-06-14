@@ -41,7 +41,7 @@ about the availability of vaccine slots.
 
 1. Weather (source: Rapid API) : https://rapidapi.com/weatherapi/api/weatherapi-com
 
-## 2. Covid- 19 (source : Rapid API) : https://rapidapi.com/api-sports/api/covid- 193
+## 2. Covid- 19 (source : Rapid API) : https://rapidapi.com/api-sports/api/covid-193
 
 3. News (source : Newsapi.org) : https://newsapi.org/
 4. Cowin (source : API Setu) : https://apisetu.gov.in/public/api/cowin
