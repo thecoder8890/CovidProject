@@ -1,6 +1,6 @@
 # COVID TRACKING PROJECT
 
-###This project is created for learning purpose, article will be shared on https://Onurdesk.com
+##This project is created for learning purpose, article will be shared on https://Onurdesk.com
 
 Project Overview :
 
